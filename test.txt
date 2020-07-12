@@ -1,1 +1,2 @@
 Hi This is my first text file to git
+This is for the Second Commit
